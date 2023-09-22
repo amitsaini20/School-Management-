@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tta-react-project/static/css/main.d2b43484.css",
+    "main.js": "/tta-react-project/static/js/main.c531478c.js",
+    "static/js/787.13d305ab.chunk.js": "/tta-react-project/static/js/787.13d305ab.chunk.js",
+    "static/media/logo.svg": "/tta-react-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tta-react-project/index.html",
+    "main.d2b43484.css.map": "/tta-react-project/static/css/main.d2b43484.css.map",
+    "main.c531478c.js.map": "/tta-react-project/static/js/main.c531478c.js.map",
+    "787.13d305ab.chunk.js.map": "/tta-react-project/static/js/787.13d305ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b43484.css",
+    "static/js/main.c531478c.js"
+  ]
+}
